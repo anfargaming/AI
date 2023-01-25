@@ -8,7 +8,7 @@
         "Telegram"
     ],
     "website": "https://t.me/TheSupportChat",
-    "repository": "https://github.com/ITZ-ZAID/AI",
+    "repository": "https://github.com/anfargaming/AI",
     "success_url": "https://t.me/TheSupportChat",
     "env": {
         "AI_ID": {
@@ -37,7 +37,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "basic"
+            "size": "eco"
         }
     },
     "stack": "container"
